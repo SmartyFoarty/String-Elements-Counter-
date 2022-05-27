@@ -1,4 +1,4 @@
-s = "Python ist sooo eine tolle Programmiersprache!"
+s = "Python is ironcically not a snake trying to kill you, so relax and enjoy that it actually tells you errors"
 
 # this is your string - just type in the sentence or text you would like the most frequent letters of 
 #-------------------------------------------------------------------------
